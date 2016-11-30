@@ -1,0 +1,11 @@
+<script src="../../js/jquery.js"></script>
+<script src="../../js/bootstrap.js"></script>
+<script src="../../js/icheck.js"></script>
+<script src="../../js/ionrangeslider.js"></script>
+<script src="../../js/jqzoom.js"></script>
+<script src="../../js/card-payment.js"></script>
+<script src="../../js/owl-carousel.js"></script>
+<script src="../../js/magnific.js"></script>
+<script src="../../js/custom.js"></script>
+<script src="../../js/basket.js"></script>
+<script src="../../js/basket-old.js"></script>
